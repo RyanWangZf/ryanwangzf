@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Zifeng.
 
 <!--
 **RyanWangZf/ryanwangzf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanwangzf&hide=contribs,prs,issues&show_icons=true)
+I am a PhD student of computer science at UIUC. Please refer to [my homepage for more about me.](zifengwang.xyz)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanwangzf&hide=contribs,prs,issues&show_icons=true&theme=tokyonight&count_private=true)
