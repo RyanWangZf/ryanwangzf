@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PhD student of computer science at UIUC. Please refer to [my homepage for more about me.](https://zifengwang.xyz)
+Currently building AI applications for clinical trials! Please refer to [my homepage for more about me.](https://zifengwang.xyz)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanwangzf&hide=contribs,prs,issues&show_icons=true&theme=tokyonight&count_private=true)
